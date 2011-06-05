@@ -1,0 +1,16 @@
+5/6/2011
+
+4:18 AM
+
+Things that are done today
+
+1. Worked till 115 page
+2. Made some real static pages and pushed them on to heroku also :-)
+
+
+Things to do 
+
+1. Add little dynamic contact to pages
+2. complete atleast chapter # 5 and chapter # 6
+
+

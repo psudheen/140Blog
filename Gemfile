@@ -8,6 +8,7 @@ gem 'rails', '3.0.4'
 gem 'sqlite3'
 gem 'gravatar_image_tag', '0.1.0'
 gem 'will_paginate', '3.0.pre2'
+gem "mail"
 
 group :development do
 	gem 'rspec-rails'
